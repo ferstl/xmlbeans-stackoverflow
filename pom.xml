@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.github.ferstl</groupId>
-  <artifactId>xmlbeans-regex</artifactId>
+  <artifactId>xmlbeans-stackoverflow</artifactId>
   <version>1.0.0-SNAPSHOT</version>
 
   <name>xmlbeans-stackoverflow</name>
