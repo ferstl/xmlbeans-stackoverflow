@@ -1,6 +1,5 @@
 package com.github.ferstl.xmlbeans;
 
-import javax.management.MBeanServerFactory;
 import org.apache.xmlbeans.impl.regex.Match;
 import org.apache.xmlbeans.impl.regex.RegularExpression;
 import org.junit.Test;
